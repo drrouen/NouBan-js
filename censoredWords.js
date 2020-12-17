@@ -877,9 +877,17 @@ var wordsArray = [
     '何文',
     '支联会',
     'takingbackthelegislature',
-    '占领立法会'
+    '占领立法会',
+    '韭菜&&镰刀',
+    '联署',
+    '习&&权力',
+    '申请信息公开',
+    '习&&生日',
+    'xi&&生日',
+    '毛衣战',
+    '许志永'
 ];
-var dataVersion = '20.11.22（' + wordsArray.length + '）';
+var dataVersion = '20.12.17（' + wordsArray.length + '）';
 
 // 以下为白名单
 var whiteList = [

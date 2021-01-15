@@ -891,9 +891,14 @@ var wordsArray = [
     '银河联邦',
     '傅高义',
     '言论钳制',
-    '梁国雄'
+    '梁国雄',
+    '徐勤先',
+    '捐卵',
+    '卢思位',
+    '迷航',
+    '李哲昕'
 ];
-var dataVersion = '21.01.06（' + wordsArray.length + '）';
+var dataVersion = '21.01.15（' + wordsArray.length + '）';
 
 // 以下为白名单
 var whiteList = [

@@ -896,9 +896,16 @@ var wordsArray = [
     '捐卵',
     '卢思位',
     '迷航',
-    '李哲昕'
+    '李哲昕',
+    '狗头军师',
+    '正确的集体记忆',
+    '丁家喜',
+    '明泽',
+    '艾未未',
+    'aiweiwei',
+    '牛腾宇'
 ];
-var dataVersion = '21.01.15（' + wordsArray.length + '）';
+var dataVersion = '21.02.08（' + wordsArray.length + '）';
 
 // 以下为白名单
 var whiteList = [

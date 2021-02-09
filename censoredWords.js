@@ -903,9 +903,11 @@ var wordsArray = [
     '明泽',
     '艾未未',
     'aiweiwei',
-    '牛腾宇'
+    '牛腾宇',
+    'clubhouse',
+    'ch'
 ];
-var dataVersion = '21.02.08（' + wordsArray.length + '）';
+var dataVersion = '21.02.09（' + wordsArray.length + '）';
 
 // 以下为白名单
 var whiteList = [

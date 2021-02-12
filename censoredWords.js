@@ -905,9 +905,17 @@ var wordsArray = [
     'aiweiwei',
     '牛腾宇',
     'clubhouse',
-    'ch'
+    'ch',
+    '颠覆国家政权',
+    '耿潇男',
+    '马金瑜',
+    '春晚',
+    '马元',
+    '习乾平',
+    '习干平',
+    '除习'
 ];
-var dataVersion = '21.02.09（' + wordsArray.length + '）';
+var dataVersion = '21.02.12（' + wordsArray.length + '）';
 
 // 以下为白名单
 var whiteList = [
